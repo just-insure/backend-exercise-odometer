@@ -100,9 +100,9 @@ Provide a folder or repository link containing:
 - README with setup instructions
 - A copy of your chat with Claude (or a similar AI assistant)
 
-We encourage the use of AI such as Claude for this task, and we ask that you include a copy of your chat/conversation with the AI assistant as part of your submission.
+Using AI such as Claude for this task is completely fine, and we ask that you include a copy of your chat/conversation with the AI assistant as part of your submission.
 
-To be clear about why: we want to see how you think about a problem, and how you work with an agent. We're interested in how you use AI to help *yourself* think through a problem. Getting the AI to write the code is completely fine; what we want to see is the point you reach with the AI before you hand off implementation to it — the thinking, framing, and decisions you bring to the conversation.
+To be clear about why: we want to see how you think about a problem, and how you work with an agent. We're interested in how you use AI to help *yourself* think through a problem.
 
 ---
 
